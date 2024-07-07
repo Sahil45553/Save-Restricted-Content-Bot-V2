@@ -39,12 +39,12 @@
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
       "value": "channel_id_here",
-      "required": true
+      "required": false 
     },
     "LOG_GROUP": {
       "description": "Enter Log Channel/Group ID (-100) and make bot admin there",
       "value": "log_group_id_here",
-      "required": true
+      "required": false 
     }
   },
   "buildpacks": [
